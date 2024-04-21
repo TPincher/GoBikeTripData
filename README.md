@@ -14,7 +14,7 @@ Students then created an explanatory document using gleaned insights backed up b
 
 This project was made in:
 
-- [Jupyter Notebooks](https://jupyter.org]) with Python 3 kernel
+- [Jupyter Notebooks](https://jupyter.org) with Python 3 kernel
 - NumPy
 - Pandas
 - MatPlotLib
