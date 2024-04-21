@@ -1,6 +1,6 @@
 # GoBikeTripData
 
-![Video demonstrating graph creation in Jupyter Notebooks]()
+![Video demonstrating graph creation in Jupyter Notebooks](./Assets/GoBikeData.gif)
 
 This project is hosted [here](https://public.tableau.com/app/profile/thomas.pincher/viz/2015flightdelaydata-120departureminimum/Dashboardforairportswithmorethan120departures?publish=yes/)
 
